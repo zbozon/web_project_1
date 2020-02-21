@@ -244,7 +244,7 @@
     width: 60%;
     z-index: 2;
     color: white;
-    background-color: rgba(0,0,0,0.0);
+    background-color: #000000;
 }
 
 .table__theme_dark {
@@ -266,7 +266,7 @@
     font-weight: bold;
     color: white;
     margin-top: 80px;
-    background-color: rgba(0,0,0,0.0);
+    background-color: #000000;
 }
 
 .kaufman__triangle {
@@ -331,7 +331,6 @@
     font-size: 18px;
     font-weight: bold;
     line-height: 45px;
-    background: transparent;
 }
 
 .footer__column-links {
@@ -353,7 +352,6 @@
 .footer__social-icons {
     color: #4f4f4f;
     text-decoration: none;
-
 }
 
 .footer__column_content-social {
