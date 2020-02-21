@@ -55,21 +55,20 @@
 }
 
 .header__link {
-    color: blue;
+    color: 2F80ED;
     text-decoration: none;
 }
 
-.header__link:visited {
-    color: pink;
-}
-
 .header__main-illustration {
-    position: absolute;
-    width: 764px;
     height: 608px;
-    right: 64px;
+    width: 765px;
+    background-image: url(../images/on_the_edge.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
     bottom: 0;
-    z-index: 1;
+    right: 0;
 }
 
 .header__square-pic {
