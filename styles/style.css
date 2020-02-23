@@ -54,7 +54,8 @@
     width: 388px;
     bottom: 30px;
     left: 64px;
-    margin-block-end: 0;
+    /* margin-block-end: 0; */
+    margin-bottom: 0;
 }
 
 .header__link {
@@ -102,8 +103,9 @@
     font-size: 18px;
     width: 175px;
     font-weight: normal;
-    margin-block-end: 0;
-    margin-block-start: 0;
+    /* margin-block-end: 0;
+    margin-block-start: 0; */
+    margin-top: 0;
   }
   
 .two-columns__paragraph {
@@ -299,8 +301,9 @@
 }
 
 .footer__column {
-    margin-block-end: 0;
-    margin-block-start: 0;
+    /* margin-block-end: 0;
+    margin-block-start: 0; */
+    margin-top: 0;
     background: transparent;
 }
 
