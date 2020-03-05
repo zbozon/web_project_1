@@ -1,0 +1,7 @@
+.footer__link {
+    color: #4f4f4f;
+    display: flex;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+}

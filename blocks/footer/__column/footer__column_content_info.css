@@ -1,0 +1,4 @@
+.footer__column_content_info {
+    max-width: 240px;
+    flex-direction: column;   
+}
