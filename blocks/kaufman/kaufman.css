@@ -1,9 +1,9 @@
-@import url(./blocks/kaufman/table/__theme/table__theme_dark.css);
-@import url(./blocks/kaufman/table/__theme/table__heading_theme_dark.css);
-@import url(./blocks/kaufman/table/__theme/table__cell_theme_dark.css);
-@import url(./blocks/kaufman/section/section-subtitle_theme_dark.css);
-@import url(./blocks/kaufman/section/section_title_theme_dark.css);
-@import url(./blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../table/__theme/table__theme_dark.css);
+@import url(../__theme/table__heading_theme_dark.css);
+@import url(../__theme/table__cell_theme_dark.css);
+@import url(../section/section-title_theme_dark.css);
+@import url(../section/section-subtitle.css);
+@import url(./__triangle/kaufman__triangle.css);
 
 
 
