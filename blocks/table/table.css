@@ -5,6 +5,7 @@
 @import url(_theme/table__cell_theme_dark.css);
 @import url(_theme/table__heading_theme_dark.css);
 @import url(_theme/table_theme_dark.css);
+@import url(_theme/table__cell_theme_light.css);
 
 
 .table {
