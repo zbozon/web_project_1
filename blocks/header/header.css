@@ -1,10 +1,10 @@
-@import url(./blocks/header/logo/logo.css);
-@import url(./blocks/header/logo/logo_place_header.css);
-@import url(./blocks/header/__title/header__title.css);
-@import url(./blocks/header/__subtitle/header__subtitle.css);
-@import url(./blocks/header/__square-pic/header__square-pic);
-@import url(./blocks/header/__main-illustration/header__main-illustation);
-@import url(./blocks/header/__link/header__link);
+@import url(../blocks/header/logo/logo.css);
+@import url(../blocks/header/logo/logo_place_header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/header/__main-illustration/header__main-illustation.css);
+@import url(../blocks/header/__link/header__link.css);
 
 .header {
     height: 100vh;
