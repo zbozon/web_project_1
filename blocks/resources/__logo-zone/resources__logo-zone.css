@@ -1,0 +1,7 @@
+.resources__logo-zone {
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    margin-top: 80px;
+    justify-content: center;
+}

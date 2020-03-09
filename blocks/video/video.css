@@ -1,0 +1,6 @@
+@import url(__iframes/video__iframes.css);
+
+.video {
+    margin: 100px auto 0;
+    width: 80%;
+}

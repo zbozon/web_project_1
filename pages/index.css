@@ -8,3 +8,8 @@
 @import url(../blocks/table);
 @import url(../blocks/section);
 @import url(../blocks/cards);
+@import url(../blocks/video);
+@import url(../blocks/video/video.css);
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/resources/resources.css);
