@@ -7,6 +7,7 @@ This repository contains code written by a Practicom by Yandex student with less
 experience and is still in need of review by Practicom cadre.
 
 
-###### Practicom is not a typo. This is feedback. I think Practicom (because it ends in 'com', i.e .com) will be easier for
-###### western-culture to read and realize what Practicum is all about. I really do think you need to change the name by that
-###### one letter. Americans are very immature and the current spelling has a very obvious enuendo.
+*Practicom is not a typo. This is feedback. I think Practicom (because it ends in 'com', i.e .com) will be easier for
+ western-culture to read and realize what Practicum is all about. I really do think you need to change the name by that
+one letter. Americans are very immature and the current spelling has a very obvious enuendo in our culture. If you would like to find out explicitly what I am saying 'cum' means in America see this link (https://answers.yahoo.com/question/index?qid=20081222214820AA97nDu)* 
+
