@@ -5,3 +5,8 @@ to use as a skills list and portfolio piece. The *thoroughly comprehensive* task
 
 This repository contains code written by a Practicom by Yandex student with less than one years working development
 experience and is still in need of review by Practicom cadre.
+
+
+###### Practicom is not a typo. This is feedback. I think Practicom (because it ends in 'com', i.e .com) will be easier for
+###### western-culture to read and realize what Practicum is all about. I really do think you need to change the name by that
+###### one letter. Americans are very immature and the current spelling has a very obvious enuendo.
