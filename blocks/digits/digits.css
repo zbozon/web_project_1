@@ -1,10 +1,10 @@
-@import url(../../blocks/table/__digits/table__digits.css);
+@import url(./__digits/digits__table.css);
 /* @import url(../../blocks/table/table.css);
 @import url(../../blocks/table/_theme/table__cell_theme_light.css);
 @import url(../../blocks/table/__text/table__text.css);
 @import url(../../blocks/table/__heading/table__heading.css);
 @import url(../../blocks/table/__cell/table__cell.css); */
-@import url(../../blocks/section/section.css);
+@import url(./section/section.css);
 
 .digits {
     margin-top: 100px;
