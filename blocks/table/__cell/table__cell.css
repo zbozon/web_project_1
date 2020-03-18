@@ -1,3 +1,6 @@
+@import url(__cell_theme/table__cell_theme_dark.css);
+@import url(__cell_theme/table__cell_theme_light.css);
+
 .table__cell {
     margin-bottom: 60px;
 }
