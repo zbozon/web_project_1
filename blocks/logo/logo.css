@@ -4,3 +4,8 @@
     width: 154px;
     background-repeat: no-repeat;
 }
+
+.logo:hover {
+    opacity: .7;
+    transition: 1s linear;
+}

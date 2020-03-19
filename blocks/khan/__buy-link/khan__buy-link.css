@@ -3,6 +3,10 @@
     line-height: 42px;
     font-weight: normal;
     text-decoration: none;
-    margin-left: 20px;
-    
+    margin-left: 20px;   
+}
+
+.khan__buy-link:hover {
+    opacity: .3;
+    transition: 1s ease;
 }
