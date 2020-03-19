@@ -1,11 +1,11 @@
-@import url(../table/__theme/table__theme_dark.css);
+/* @import url(../table/__theme/table__theme_dark.css);
 @import url(../__theme/table__heading_theme_dark.css);
-@import url(../__theme/table__cell_theme_dark.css);
-@import url(../section/section-title_theme_dark.css);
-@import url(../section/section-subtitle.css);
+@import url(../__theme/table__cell_theme_dark.css); */
+@import url(../section-title/section-title_theme_dark.css);
+@import url(../section-subtitle/section-subtitle.css);
 @import url(../__triangle/kaufman__triangle.css);
 @import url(../table/table.css);
-@import url(../section/section.css);
+/* @import url(../section/section.css); */
 @import url(../__triangle/kaufman__triangle.css);
 
 .kaufman {

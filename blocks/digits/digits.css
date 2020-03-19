@@ -3,7 +3,7 @@
 @import url(../../blocks/table/_theme/table__cell_theme_light.css);
 @import url(../../blocks/table/__text/table__text.css);
 @import url(../../blocks/table/__heading/table__heading.css);
-@import url(../../blocks/table/__cell/table__cell.css); */
+@import url(../../blocks/table/__cell/table__cell.css);  */
 @import url(./section/section.css);
 
 .digits {

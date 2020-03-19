@@ -10,6 +10,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/section/section-subtitle.css);
 @import url(../blocks/cards/__description/);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/video/__iframes/);
 @import url(../blocks/video/video.css);
 @import url(../blocks/oakley/oakley.css);
