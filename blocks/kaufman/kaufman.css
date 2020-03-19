@@ -1,8 +1,9 @@
-@import url(../section-title/section-title.css);
-@import url(../section-subtitle/section-subtitle.css);
+@import url(./section-title/section-title.css);
+@import url(./section-subtitle/section-subtitle.css);
 
-/* Forgive me, once you say if I use '../' it means wrong path,
-but then I see that '@import url(./table/table.css);' also wrong path */
+/* Forgive me for comment please; Once you say if I use '../' it means wrong path,
+but then I see that '@import url(./table/table.css);' also wrong path
+I hope Im not make you mad */
 @import url(../table/table.css); 
 @import url(./__triangle/kaufman__triangle.css);
 
