@@ -6,8 +6,8 @@
 
 .rotation {
     animation: rotate linear 20s infinite;
-    -webkit-animation: rotate 5s infinite; /* Safari 4+ */
-    -moz-animation:    rotate 5s infinite; /* Fx 5+ */
-    -o-animation:      rotate 5s infinite; /* Opera 12+ */
-    animation:         rotate 5s infinite; /* IE 10+, Fx 29+ */
+    -webkit-animation: rotate 20s infinite; /* Safari 4+ */
+    -moz-animation:    rotate 20s infinite; /* Fx 5+ */
+    -o-animation:      rotate 20s infinite; /* Opera 12+ */
+    animation:         rotate 20s infinite; /* IE 10+, Fx 29+ */
 }
