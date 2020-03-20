@@ -11,4 +11,5 @@
     flex-wrap: wrap;
     display: flex;
     align-items: baseline;
+    padding-left: 0;
 }
