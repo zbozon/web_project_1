@@ -6,14 +6,4 @@
     width: 80%;
 }
 
-.video:hover {
-    opacity: .2;
-    transition: 2s ease;
-}
-
-/* Thank you for your help and patience. I cannot find anywhere in brief describing 
-any required styling for this video section other than what's already applied. 
-I applied the :hover just because the brief said all links should :hover. 
-Was there a new brief released with styling suggestions for the videos?
- I am still being graded on sprint 2 project 2 right? I haven't
-  started 3rd yet. I am so confused. */
+/* Thank you for your help and patience. */
