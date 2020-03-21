@@ -1,7 +1,6 @@
-@import url(../__column/footer__column_content-social.css);
-@import url(../__column/footer__column_content-copyright.css);
 @import url(../__column/footer__column_content_info.css);
-
+@import url(../__column/footer__column_content-copyright.css);
+@import url(../__column/footer__column_content-social.css);
 
 .footer__column {
     /* margin-block-end: 0;
